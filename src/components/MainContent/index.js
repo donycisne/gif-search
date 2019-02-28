@@ -1,10 +1,10 @@
 import React from 'react';
 import GifList from './GifList';
 
-export default function MainContent() {
+export default function MainContent(props) {
   return (
     <main className="main-content">
-      <GifList />
+      <GifList data={props.data} />
     </main>
   );
 }
