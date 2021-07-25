@@ -2,6 +2,11 @@
   "name": "gif-search",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name" : "Dony Cisneros",
+    "email" : "dony.cisne@gmail.com",
+    "url" : "https://www.donycisneros.com/"
+  },
   "dependencies": {
     "axios": "^0.18.0",
     "react": "^16.8.3",
